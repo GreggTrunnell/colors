@@ -1,3 +1,4 @@
+//TODO review ColorChangeSwatch
 import ColorChangeSwatch from '../shared/color-change-swatch';
 
 type RelatedColorPaletteProps = {
